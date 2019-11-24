@@ -1,5 +1,7 @@
 List of languages that were implemented in a dialect of Lisp, to your surprise !
 
+Contributions welcome.
+
 # Dylan
 
 > Some [Dylan](https://en.wikipedia.org/wiki/Dylan_(programming_language)) implementations were initially built with Lisp systems.
@@ -49,3 +51,7 @@ The Yale implementation of Haskell was written in Common Lisp.
 > written between 1991 and 1993; was built from sources using CMU Common Lisp, Lucid Common Lisp, Allegro Common Lisp, Harlequin LispWorks, Kyoto Common Lisp.
 
 https://wiki.haskell.org/Haskell_Lisp
+
+# See also
+
+- [A list of Lisp-flavored programming languages](https://github.com/dundalek/awesome-lisp-languages)
