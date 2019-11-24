@@ -55,3 +55,4 @@ https://wiki.haskell.org/Haskell_Lisp
 # See also
 
 - [A list of Lisp-flavored programming languages](https://github.com/dundalek/awesome-lisp-languages)
+- [the C# garbage collector was prototyped in Common Lisp](https://blogs.msdn.microsoft.com/patrick_dussud/2006/11/21/how-it-all-startedaka-the-birth-of-the-clr/)
