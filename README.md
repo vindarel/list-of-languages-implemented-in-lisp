@@ -52,6 +52,10 @@ The Yale implementation of Haskell was written in Common Lisp.
 
 https://wiki.haskell.org/Haskell_Lisp
 
+# Other languages
+
+- [STELLA](https://www.isi.edu/isd/LOOM/Stella/index.html) - STELLA is a strongly typed, object-oriented, Lisp-like language, designed to facilitate symbolic programming tasks in artificial intelligence applications. STELLA programs are translated into a target language such as C++, Common Lisp, or Java, and then compiled with the native target language compiler to generate executable code.
+
 # See also
 
 - [A list of Lisp-flavored programming languages](https://github.com/dundalek/awesome-lisp-languages)
